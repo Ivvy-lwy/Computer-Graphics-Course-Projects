@@ -36,10 +36,3 @@
 
 [eulerangles]: https://en.wikipedia.org/wiki/Euler_angles
 
-> ## Notes for TAs editing the README
->
-> This README file is too complex for [texify](https://github.com/apps/texify) to render. Use [readme2tex](https://github.com/leegao/readme2tex) locally to render the TeX to SVGs.
->
-> `python -m readme2tex --output README.md README.tex.md --nocdn`
-> 
-> `sed -i 's/invert_in_darkmode\"/invert_in_darkmode\&sanitize=true\"/g' README.md`
