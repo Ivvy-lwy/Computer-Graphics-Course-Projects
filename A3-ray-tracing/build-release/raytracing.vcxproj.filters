@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\UofT\CSC317\Assignments\A3-ray-tracing\src\DirectionalLight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\UofT\CSC317\Assignments\A3-ray-tracing\src\PointLight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\UofT\CSC317\Assignments\A3-ray-tracing\src\blinn_phong_shading.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\UofT\CSC317\Assignments\A3-ray-tracing\src\raycolor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\UofT\CSC317\Assignments\A3-ray-tracing\src\reflect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\UofT\CSC317\Assignments\A3-ray-tracing\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\UofT\CSC317\Assignments\A3-ray-tracing\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1F1DE6EC-C14C-32BF-A605-7A7917910215}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

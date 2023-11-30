@@ -1,0 +1,10 @@
+^C:\UOFT\CSC317\ASSIGNMENTS\A3-RAY-TRACING\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/UofT/CSC317/Assignments/A3-ray-tracing -BC:/UofT/CSC317/Assignments/A3-ray-tracing/build-release --check-stamp-file C:/UofT/CSC317/Assignments/A3-ray-tracing/build-release/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
