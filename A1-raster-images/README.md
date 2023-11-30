@@ -1,26 +1,9 @@
-# Computer Graphics – Raster Images
-
-> **To get started:** Clone this repository:
-> 
->     git clone  https://github.com/karansher/computer-graphics-raster-images.git
-
-**Do not fork:** Clicking "Fork" will create a _public_ repository. If you'd like to use GitHub while you work on your assignment, then mirror this repo as a new _private_ repository: https://stackoverflow.com/questions/10065526/github-how-to-make-a-fork-of-public-repository-private
-
-
+# Raster Images
 ## Introduction
 
 Welcome to Computer Graphics! The main purpose of this assignment will be to get
 you up and running with C++ and the cmake build setup used for our assignments.
 
-
-### Prerequisite installation
-
-On all platforms, we will assume you have installed cmake and a modern c++
-compiler on Mac OS X[¹](#¹macusers), Linux[²](#²linuxusers), or
-Windows[³](#³windowsusers).
-
-We also assume that you have cloned this repository using the `--recursive`
-flag (if not then issue `git submodule update --init --recursive`). 
 
 ### Layout
 
