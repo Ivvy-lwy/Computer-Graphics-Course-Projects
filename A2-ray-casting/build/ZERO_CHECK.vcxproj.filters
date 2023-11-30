@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\UofT\CSC317\Assignments\A2-ray-casting\build\CMakeFiles\fc5e8b67b9ab046323f1618fc20076c0\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{07E303F4-B7C9-34D6-831E-D3363FD3192D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

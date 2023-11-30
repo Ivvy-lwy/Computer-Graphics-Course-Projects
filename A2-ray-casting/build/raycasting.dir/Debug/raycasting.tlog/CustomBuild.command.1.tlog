@@ -1,0 +1,10 @@
+^C:\UOFT\CSC317\ASSIGNMENTS\A2-RAY-CASTING\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/UofT/CSC317/Assignments/A2-ray-casting -BC:/UofT/CSC317/Assignments/A2-ray-casting/build --check-stamp-file C:/UofT/CSC317/Assignments/A2-ray-casting/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
